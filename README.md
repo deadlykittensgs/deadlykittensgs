@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deadlykittensgs
+- 👋 Hi, I’m Ryan! aka. @deadlykittensgs on GitHub (long story)
 - 👀 I’m interested in guitar, coding, and League of Legends.
 - 🌱 I’m currently learning to become a web developer.
 - 💞️ I’m looking to collaborate on anything and everything! I love to learn.
