@@ -1,4 +1,4 @@
-<h1 >Hi I'm Ryan</h1>
+<h1 >About me</h1>
 <h3 >Self-taught Front End Developer</h3>
 
 Hey there! I'm Ryan, also known as @deadlykittensgs on GitHub. I'm deeply passionate about guitar, coding, and all things web development. Currently honing my skills in the latter. 🎸💻✨
