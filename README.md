@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Ryan! aka. @deadlykittensgs on GitHub (long story)
-- 👀 I’m interested in guitar, coding, and League of Legends.
-- 🌱 I’m currently learning to become a web developer.
-- 💞️ I’m looking to collaborate on anything and everything! I love to learn.
-- 📫 How to reach me (working on this right now :) )
-- 😄 Pronouns: your/friend
-- ⚡ Fun fact: I started my IT journey while on a 2-month trip to Europe and will absolutely be returning to London one day to visit!
+Hey there! I'm Ryan, also known as @deadlykittensgs on GitHub. I'm deeply passionate about guitar, coding, and all things web development. Currently honing my skills in the latter, I'm eagerly seeking opportunities to collaborate and learn. Fun fact: My IT journey started during a two-month trip to Europe, and I'm definitely planning on revisiting London someday. Let's connect and create something awesome together! 🎸💻✨
 
 <!---
 deadlykittensgs/deadlykittensgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
