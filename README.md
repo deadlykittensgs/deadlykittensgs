@@ -7,7 +7,7 @@ Hey there! I'm Ryan, also known as @deadlykittensgs on GitHub. I'm deeply passio
   👨‍💻 a peek at my portfolio [https://ryanmcm-portfolio.netlify.app/](https://ryanmcm-portfolio.netlify.app/)
   
  
- 🔭 I’m currently working on [FreeCodeCamp](https://www.freecodecamp.org/learn)
+ 🔭 I’m currently working on my own projects
 
 
 📫 How to reach me **Ryan270Win@gmail.com**
