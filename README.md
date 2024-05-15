@@ -4,7 +4,7 @@
 Hey there! I'm Ryan, also known as @deadlykittensgs on GitHub. I'm deeply passionate about guitar, coding, and all things web development. Currently honing my skills in the latter. 🎸💻✨
 
 
-  👨‍💻 a peek at my portfolio [https://ryanmcm-portfolio.netlify.app/](https://ryanmcm-portfolio.netlify.app/)
+  👨‍💻 a peek at my portfolio https://ryanmtailwindportfolio.netlify.app/
   
  
  🔭 I’m currently working on my own projects
