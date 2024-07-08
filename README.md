@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Ryan MCMahon</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deadlykittensgs&label=Profile%20views&color=0e75b6&style=flat" alt="deadlykittensgs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadlykittensgs&theme=" alt="deadlykittensgs" /></a> </p>
 
 
-- 📫 How to reach me **ryan270WIn@gmail.com**
+
+- 📫 How to reach me **ryan270Win@gmail.com**
 - 👨‍💻 My most recent projects are available at **https://ryanmtailwindportfolio.netlify.app/**
 
 <div> <a href="https://www.linkedin.com/in/ryan-mcmahon-89785016b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
